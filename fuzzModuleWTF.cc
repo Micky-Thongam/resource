@@ -1,4 +1,4 @@
-// fuzzing irfan_view
+
 #include "backend.h"
 #include "targets.h"
 #include "crash_detection_umode.h"
